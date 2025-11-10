@@ -146,7 +146,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Manny Silva.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Manny Silva. | Part of the <a href="https://caseyrfsmith.github.io/webring/">tech writing blog webring</a>.`,
     },
     prism: {
       theme: prismThemes.github,
