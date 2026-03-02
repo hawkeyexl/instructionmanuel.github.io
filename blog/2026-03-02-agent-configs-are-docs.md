@@ -39,11 +39,11 @@ So what kinds of files are involved?
 
 <!--truncate-->
 
-## The Five File Types
+## The Five Doc Types
 
-Five types of configuration files define how AI agents work within a project. Each maps to documentation work that technical communicators already do.
+Five doc types define how AI agents work within a project. Each maps to documentation work that technical communicators already do.
 
-These file types are based on my personal experience working with AI agents in documentation projects, as well as research on effective agent configurations.
+These doc types are based on my personal experience working with AI agents in documentation projects, as well as research on effective agent configurations.
 
 ### Project Descriptions
 
@@ -83,7 +83,7 @@ Plans and specs are requirements specifications that double as quality gates. Th
 
 ### In Short
 
-| File Type | Purpose | Documentation Equivalent |
+| Doc Type | Purpose | Documentation Equivalent |
 |---|---|---|
 | Project Descriptions | Project-level rules and conventions | Onboarding docs, team wiki |
 | Agent Definitions | Role specs with quality criteria | Job descriptions, reviewer guidelines |
@@ -117,7 +117,7 @@ Think of an agent's context window (the amount of text it can process at once) l
 
 ## The Skills You Already Have
 
-The file types above already make this case, and the research backs it up: the skills that make agent configurations effective are documentation skills.
+The doc types above already make this case, and the research backs it up: the skills that make agent configurations effective are documentation skills.
 
 Progressive disclosure (structuring information in tiers so the right content loads at the right time) is what separates effective agent configurations from auto-generated dumps. Audience analysis still applies, even when the audience is an AI model with vast knowledge, zero institutional memory, and a finite context window. Information architecture determines which rules go where: project descriptions, agent definitions, or skills. And editorial judgment? That's what both studies validated. Gloaguen et al. showed that minimal, human-curated files outperform verbose ones. Lulla et al. showed that the right content prevents the costliest failures. If you've ever cut a 40-page doc down to 10 and watched comprehension go *up*, you already know why.
 
