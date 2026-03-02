@@ -16,7 +16,7 @@ It's a bold claim, so let me back it up.
 
 Here's a file that powers an AI agent:
 
-```markdown
+```markdown title="AGENTS.md"
 # AGENTS.md — API Documentation Repository
 
 ## Workflow Rules
