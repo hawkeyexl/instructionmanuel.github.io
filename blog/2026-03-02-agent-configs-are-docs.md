@@ -129,6 +129,25 @@ If you're interested in exploring this space, project descriptions are the most 
 
 Here's a starting template you can put in your repo root today:
 
+```markdown title="AGENTS.md template"
+# AGENTS.md — [Brief Project Description] Repository
+
+## Workflow Rules
+
+- Human review required for [list of scenarios]
+- [Mention of rules checked via Continuous Integration, like style guide compliance]
+- [Escape criteria for when the AI should stop attempting a task and hand it back to a human]
+
+## Escalation
+
+- [Circumstances in which an agent should route to a different agent (if available)]
+- [Circumstances in which each agent should route to a human]
+
+## Resources
+
+- [Brief descriptions and links to high-priority resources that the agent is unlikely to find autonomously]
+```
+
 That's enough to start. Open a conversation with your AI coding tool of choice (Claude Code, Codex, GitHub Copilot, whatever) and see how it responds. Then iterate: add rules when the agent does something you don't want, remove rules that don't affect behavior. Treat it like any documentation project. Not that different tools have different capabilities and quirks. It's the wild west out there.
 
 Things move fast in AI tooling. New tools appear weekly, capabilities shift, and best practices are still forming. But the underlying discipline — clear, structured writing aimed at the right audience — doesn't change. Technical communicators have been doing this work under different names for a long time. That opening AGENTS.md snippet? It's a doc. And writing docs is what you do.
