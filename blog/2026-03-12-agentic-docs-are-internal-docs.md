@@ -14,13 +14,13 @@ The agents weren't broken. They were following instructions that didn't serve th
 
 <!--truncate-->
 
-In a [previous post](/blog/agent-configs-are-docs), I argued that agent configuration files are documentation and that their formats, structures, and purposes map directly to work technical communicators already do. That post covered the *what*: five doc types (project descriptions, agent definitions, orchestration patterns, skills, and plans/specs) and why writers are well-positioned to create them.
+In a [previous post](/agent-configs-are-docs), I argued that agent configuration files are documentation and that their formats, structures, and purposes map directly to work technical communicators already do. That post covered the *what*: five doc types (project descriptions, agent definitions, orchestration patterns, skills, and plans/specs) and why writers are well-positioned to create them.
 
 This post goes further. These files are internal documentation, full stop. They encode how your team actually works. And if you don't manage them with the same rigor you'd apply to any internal doc set, they'll degrade in the same ways: outdated content, conflicting guidance, and gaps nobody notices until something breaks.
 
 ## A quick orientation
 
-If you haven't encountered these doc types before, here's the short version. (For a deeper introduction, see [my earlier post](/blog/agent-configs-are-docs).)
+If you haven't encountered these doc types before, here's the short version. (For a deeper introduction, see [my earlier post](/agent-configs-are-docs).)
 
 Five doc types define how AI agents work within a project:
 
