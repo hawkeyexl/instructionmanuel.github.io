@@ -8,7 +8,7 @@ image: /img/writing-skills-agents-can-execute.png
 
 ![Writing Skills That Agents Can Actually Execute banner](/img/writing-skills-agents-can-execute.png)
 
-In the first post of this series, I argued that [agent configurations are documentation](/agent-configs-are-docs). In the second, I made the case that they're specifically [internal documentation](/agentic-docs-are-internal-docs) and should be managed that way. Both posts covered five doc types: project descriptions, agent definitions, orchestration patterns, skills, and plans/specs.
+First, I argued that [agent configurations are documentation](/agent-configs-are-docs). Next, I made the case that they're specifically [internal documentation](/agentic-docs-are-internal-docs) and should be managed that way. Both times I covered five doc types: project descriptions, agent definitions, orchestration patterns, skills, and plans/specs.
 
 Of those five, skills are the hardest to write well. Let's walk through how I handled writing and validating skills for [Doc Detective's agent tools](https://github.com/doc-detective/agent-tools).
 
