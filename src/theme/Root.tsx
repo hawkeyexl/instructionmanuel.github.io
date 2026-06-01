@@ -49,11 +49,22 @@ function BookSidePanel() {
         &times;
       </button>
       <div className="book-panel-content">
-        <div className="book-panel-badge">Get the Book</div>
+        <div className="book-panel-badge">Now Available</div>
         <div className="book-panel-icon">&#128214;</div>
-        <h3 className="book-panel-title">Docs as Tests</h3>
+        <h3 className="book-panel-title">Docs as Tests &amp; AI</h3>
         <p className="book-panel-tagline">
-          Build documentation that stays accurate, reliable, and in sync with your product.
+          Verify every place AI touches your docs &mdash; from generation to agents to self-healing pipelines.
+        </p>
+        <a href="https://amzn.to/4tOLOeS" className="book-panel-cta" target="_blank" rel="noopener noreferrer">
+          Get it on Amazon &rarr;
+        </a>
+        <Link to="/books/docs-as-tests-and-ai" className="book-panel-cta" style={{fontSize: '0.72rem', marginTop: '0.1rem', opacity: 0.7}}>
+          Learn more
+        </Link>
+        <div className="book-panel-divider" />
+        <h3 className="book-panel-title book-panel-title--secondary">Docs as Tests</h3>
+        <p className="book-panel-tagline">
+          The original strategy for documentation that stays accurate, reliable, and in sync with your product.
         </p>
         <a href="https://amzn.to/3NEqwAV" className="book-panel-cta" target="_blank" rel="noopener noreferrer">
           Get it on Amazon &rarr;

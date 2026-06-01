@@ -1,5 +1,9 @@
 # Copilot Instructions for instructionmanuel
 
+## Writing a blog post — read this first
+
+When asked to create or substantially adapt a blog post for this site, invoke the **authoring-workflow** skill *before* drafting. The workflow runs Planner → Writer → Editor → Reviewer → Citation Verifier → Proofer; drafting first and then reviewing late wastes the multi-pass benefit and lets style/citation issues land in the published version. Treat "adapt this presentation/talk into a post" and "rewrite this draft" as authoring tasks, not edits.
+
 ## Project Overview
 
 This is a **Docusaurus v3.9.1** portfolio and blog site for Manny Silva (Technical Writer & Engineer). The site is **blog-first** (blog at `/`, not `/blog`) with custom portfolio pages and no docs section.

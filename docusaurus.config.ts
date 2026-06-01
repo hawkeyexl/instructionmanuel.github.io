@@ -76,7 +76,14 @@ const config: Config = {
       items: [
         {to: '/', label: 'Home', position: 'left'},
         {to: '/portfolio', label: 'Portfolio', position: 'left'},
-        {to: '/books/docs-as-tests', label: 'Book', position: 'left'},
+        {
+          label: 'Books',
+          position: 'left',
+          items: [
+            {to: '/books/docs-as-tests-and-ai', label: 'Docs as Tests & AI'},
+            {to: '/books/docs-as-tests', label: 'Docs as Tests'},
+          ],
+        },
         {to: '/doc-detective', label: 'Doc Detective', position: 'left'},
         {to: '/talks', label: 'Talks', position: 'left'},
         {
@@ -100,6 +107,10 @@ const config: Config = {
             {
               label: 'Portfolio',
               to: '/portfolio',
+            },
+            {
+              label: 'Docs as Tests & AI Book',
+              to: '/books/docs-as-tests-and-ai',
             },
             {
               label: 'Docs as Tests Book',

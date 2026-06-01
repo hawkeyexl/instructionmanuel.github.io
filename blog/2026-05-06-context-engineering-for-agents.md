@@ -155,4 +155,4 @@ Context engineering is a discipline name for what writers have always done when 
 
 Every agent needs three things: a goal, a map, a way to know it arrived. Those three things can live in five places: the prompt, the project file, the agent, the skill, and the orchestration pattern that strings them together. We'll go deeper on the trickier parts in the future, orchestration patterns in particular, but for now open your repo, pick one skill, and check whether its exit criteria are written down. If they aren't, you've already found your next ten minutes of work.
 
-> This content and more is covered in [*Docs as Tests: A Strategy for Self-Healing Technical Documentation*](https://amzn.to/4tOLOeS), my book on how how to build trust into agentic workflows, including how to use agents to maintain documentation.
+> This content and more is covered in [*Docs as Tests & AI: A Strategy for Self-Healing Technical Documentation*](https://amzn.to/4tOLOeS), my book on how to build trust into agentic workflows, including how to use agents to maintain documentation.
